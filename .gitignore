@@ -5,6 +5,8 @@
 /.pnp
 .pnp.*
 .yarn/*
+.playwright-screenshots
+.playwright-mcp
 !.yarn/patches
 !.yarn/plugins
 !.yarn/releases
