@@ -10,6 +10,10 @@ Arcade Vault: an online platform to play games and compete on score. Currently a
 
 No test framework is installed yet.
 
+## Skills
+
+Usar esta skill frontend-design siempre para el estilo
+
 ## Stack & conventions
 
 - Next.js **16.3.0** (App Router), React **19.2.8**, TypeScript strict, Tailwind **v4**. See `AGENTS.md` for the mandatory instruction to read `node_modules/next/dist/docs/` before using any Next API — this version has breaking changes vs. training data.
