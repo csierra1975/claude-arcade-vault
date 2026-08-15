@@ -8,15 +8,6 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Arcade Vault: an online platform to play games and compete on score. Currently a fresh `create-next-app` scaffold — no domain code yet (see `app/page.tsx`).
 
-## Commands
-
-```bash
-npm run dev      # start dev server
-npm run build    # production build
-npm run start    # run production build
-npm run lint     # eslint (flat config, not `next lint`)
-```
-
 No test framework is installed yet.
 
 ## Stack & conventions
